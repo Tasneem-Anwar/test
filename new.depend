@@ -1,10 +1,10 @@
 # depslib dependency file v1.0
 1661587660 source:c:\users\tasneem anwar\desktop\2016\calc_casio\new\neww_git.c
 
-1661587660 source:c:\users\tasneem anwar\desktop\2016\calc_casio\new\main.c
+1661590944 source:c:\users\tasneem anwar\desktop\2016\calc_casio\new\main.c
 	<stdio.h>
 	<stdlib.h>
 	"new_git.h"
 
-1661587660 c:\users\tasneem anwar\desktop\2016\calc_casio\new\new_git.h
+1661590944 c:\users\tasneem anwar\desktop\2016\calc_casio\new\new_git.h
 
